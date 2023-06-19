@@ -34,7 +34,7 @@ def halve number
   number / 2
 end
 
-result = halve 100
+result = halve 1000000
 puts result
 
 
